@@ -1,0 +1,16 @@
+{
+    "Tiempo": 15,
+    "Rondas": 6,
+    "Puntaje_sumar": 15,
+    "Puntaje_restar": 5,
+    "Cant_pistas": {
+        "Facil": 5,
+        "Normal": 3,
+        "Dificil": 2
+    },
+    "Datasets": {
+        "Volcanes": true,
+        "Spotify": true,
+        "FIFA": true
+    }
+}

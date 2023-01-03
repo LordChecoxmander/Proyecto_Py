@@ -1,0 +1,18 @@
+{
+    "Invitado": {
+        "Edad": 0,
+        "Genero": "Otro"
+    },
+    "Isidro": {
+        "Edad": 22,
+        "Genero": "Masculino"
+    },
+    "Juan": {
+        "Edad": 22,
+        "Genero": "Masculino"
+    },
+    "Juliana": {
+        "Edad": 29,
+        "Genero": "Femenino"
+    }
+}
